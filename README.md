@@ -28,8 +28,8 @@ It suggests similar movies based on user selection and displays movie posters fe
 movie-recommender-system/
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # List of dependencies
-├── movie_list.pkl       # Pickle file containing movie data
-├── similarity.pkl       # Pickle file containing similarity matrix
+├── movie_list.pkl       # Pickle file containing movie data , the file in the google drive
+├── similarity.pkl       # Pickle file containing similarity matrix, the file in the google drive
 └── README.md            # Project documentation
 
 ````
