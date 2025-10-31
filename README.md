@@ -94,9 +94,7 @@ gdown.download("https://drive.google.com/uc?id=YOUR_FILE_ID", "movie_list.pkl", 
 
 ---
 
-## 📜 License
 
-This project is open-source under the **MIT License**.
 
 Built with ❤️ using **Python** and **Streamlit**.
 
